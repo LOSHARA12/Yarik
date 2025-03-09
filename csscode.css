@@ -113,7 +113,7 @@ html, body {
  overflow: hidden;
  position: relative;
  width: 100%;
- background-image: url("https://raw.githubusercontent.com/LOSHARA12/Yarik/refs/heads/main/1920-x-1080-hd-1qq8r4pnn8cmcew4.jpg");
+ background-image: url("https://raw.githubusercontent.com/LOSHARA12/Yarik/refs/heads/main/%D0%9A%D0%90%D0%A0%D0%A2%D0%98%D0%9D%D0%9A%D0%90.jpg");
  background-attachment: fixed;
  background-size: cover;
  -moz-background-size: cover;
@@ -127,13 +127,13 @@ html, body {
  overflow: hidden;
  position: relative;
  width: 100%;
- background-image: url("https://raw.githubusercontent.com/LOSHARA12/Yarik/refs/heads/main/images.jpg");
+ background-image: url("https://raw.githubusercontent.com/LOSHARA12/Yarik/refs/heads/main/1920-x-1080-hd-1qq8r4pnn8cmcew4.jpg");
  background-attachment: fixed;
  background-size: cover;
  -moz-background-size: cover;
  -webkit-background-size: cover;
  background-repeat: no-repeat;
- background-position: top center;
+ background-position: center center;
 }
 #landing .parallax-three {
  padding-top: 200px;
@@ -141,28 +141,28 @@ html, body {
  overflow: hidden;
  position: relative;
  width: 100%;
- background-image: url("https://raw.githubusercontent.com/LOSHARA12/Yarik/refs/heads/main/ZPIMqct.jpg");
+ background-image: url("https://raw.githubusercontent.com/LOSHARA12/Yarik/refs/heads/main/%D0%9A%D0%90%D0%A0%D0%A2%203.jpg");
  background-attachment: fixed;
  background-size: cover;
  -moz-background-size: cover;
  -webkit-background-size: cover;
  background-repeat: no-repeat;
- background-position: top center;
+ background-position: center center;
 }
-#landing .line-break {
- background: linear-gradient(60deg, #008000, #ffd700, #dc143c);
+#landing .line-break-one {
+ background: linear-gradient(pink, #128000, #ffd200, #dc189c);
  width: 100%;
  margin: 0 auto;
 }
-#landing .line-break {
- background: linear-gradient(60deg, #008000, #ffd700, #dc143c);
+#landing .line-break-two {
+ background: linear-gradient(60deg, #0080, #ffd700, #dc143c);
  width: 100%;
  margin: 0 auto;
 }
-#landing .line-break {
- background: linear-gradient(60deg, #008000, #ffd700, #dc143c);
+#landing .line-break-three {
+ background: linear-gradient(60deg, #000000, #ffd700, #dc143c);
  width: 100%;
- margin: 0 auto;
+ margin: 10 auto;
 }
 @media screen and (max-width: 959px) and (min-width: 768px) {
  #flat .block {
